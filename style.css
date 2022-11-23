@@ -1,0 +1,7 @@
+body{
+    background-image: url('bg.jpg');
+}
+h3, p{
+    text-align: center;
+    color: black;
+};
